@@ -1,0 +1,1220 @@
+html {
+    scroll-behavior: smooth;
+    background: #090B0B;
+}
+.section1 {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    left: 0px;
+    top: 0px;
+
+    font-family: Poppins;
+    font-style: normal;
+
+    background: #090B0B;
+}
+
+.section1 .textbox p{
+    position: absolute;
+    width: 366px;
+    height: 60px;
+    left: 40.469vw;
+    top: 60.462962962963vh;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.section1 .textbox h1 {
+    position: absolute;
+    width: 497px;
+    height: 225px;
+    left: 37.083vw;
+    top: 27.083333333333vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 150px;
+    line-height: 225px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.cloud1{
+    position: absolute;
+    width: 191px;
+    height: 61px;
+    left: 21.458vw;
+    top: 30.92vh;
+
+    filter: invert(73%) sepia(7%) saturate(520%) hue-rotate(219deg) brightness(97%) contrast(82%);  
+    animation: cloud-anim 13s alternate-reverse infinite linear;
+
+}
+
+.cloud2{
+    position: absolute;
+    width: 277px;
+    height: 89px;
+    left: 25.05vw;
+    top: 64.537vh;
+
+    filter: invert(73%) sepia(7%) saturate(520%) hue-rotate(219deg) brightness(97%) contrast(82%);
+    animation: cloud-anim 20s alternate-reverse infinite linear;
+
+}
+
+.cloud3{
+    position: absolute;
+    width: 173px;
+    height: 56px;
+    left: 69.427vw;
+    top: 60.83333333333333vh;
+    
+    filter: invert(73%) sepia(7%) saturate(520%) hue-rotate(219deg) brightness(97%) contrast(82%);
+    animation: cloud-anim 10s alternate-reverse infinite linear;
+
+}
+
+.cloud4{
+    position: absolute;
+    width: 165px;
+    height: 65px;
+    left: 16.458vw;
+    top: 78.51851851851852vh;    
+    
+    filter: invert(44%) sepia(10%) saturate(245%) hue-rotate(277deg) brightness(84%) contrast(88%);
+    animation: cloud-anim 5s alternate-reverse infinite linear;
+
+}
+
+.cloud5{
+    position: absolute;
+    width: 218px;
+    height: 86px;
+    left: 58.073vw;
+    top: 77.59259259259258vh;
+    
+    filter: invert(44%) sepia(10%) saturate(245%) hue-rotate(277deg) brightness(84%) contrast(88%);
+    animation: cloud-anim 17s alternate-reverse infinite linear;
+}
+
+.cloud6{
+    position: absolute;
+    width: 218px;
+    height: 86px;
+    left: 10.344vw;
+    top: 50.925925925925924vh;
+    
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    filter: invert(44%) sepia(10%) saturate(245%) hue-rotate(277deg) brightness(84%) contrast(88%);
+    animation: cloud-anim 11s alternate-reverse infinite linear;
+
+}
+
+.cloud7{
+    position: absolute;
+    width: 218px;
+    height: 86px;
+    left: 82.302vw;
+    top: 40.907407407407405vh;
+    
+    
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    filter: invert(44%) sepia(10%) saturate(245%) hue-rotate(277deg) brightness(84%) contrast(88%);
+    animation: cloud-anim 6s alternate-reverse infinite linear;
+}
+
+.section2{
+    position: absolute;
+    width: 100vw;
+    height: 46.296296296296vh;
+    left: 0px;
+    top: 100vh;
+    
+    background: #090B0B;
+}
+
+.section3{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    left: 0px;
+    top: 146.2962962963vh;
+    
+    background: #090B0B;
+}
+
+.section3 h2{
+    position: absolute;
+    left: 68.33%;
+    right: 12.71%;
+    top: 25.56%;
+    bottom: 60.56%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 5.208vw;
+    line-height: 150px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #EEF0F2;
+}
+
+.section4{
+    position: absolute;
+    width: 100vw;
+    height: 20.833vw;
+    left: 0px;
+    top: 246.2962962963vh;
+
+    background: #090B0B;
+}
+
+.section5{
+    position: absolute;
+    width: 100vw;
+    height: 795.18518518519vh;
+    left: 0vw;
+    top: 283.33333333333vh;
+}
+
+.piepag{
+    position: absolute;
+    width: 100vw;
+    height: 44.907407407407vh;
+    left: 0px;
+    top: 1078.5185185185vh;
+
+    background: #1F1F1F;
+}
+
+.section3 .imgbg{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    left: 0px;
+    top: 0px;
+    background-color: transparent;
+}
+
+.zurigohome{
+    position: absolute;
+    width: 100vw;
+    height: 87.175925925926vh;
+    left: 0px;
+    top: 53.703703703704vh;
+}
+
+.righttitle{
+    position: absolute;
+    width: 42.396vw;
+    height: 13.888888888889vh;
+    left: 10.417vw;
+    top: 8.0555555555556vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 5.208vw;
+    line-height: 150px;
+    /* identical to box height */
+
+    text-align: left;
+
+    color: #EEF0F2;
+}
+
+.sectiongeografia{
+    position: absolute;
+    width: 100vw;
+    height: 271.66666666667vh;
+    left: 0px;
+    top: 0px;
+    background: #090B0B;
+}
+
+#zurigomap{
+    position: absolute;
+    width: 74.271vw;
+    height: 100vh;
+    left: 0px;
+    top: 0;
+}
+
+.section3 h3{
+    position: absolute;
+    left: 67.33%;
+    right: 8.12%;
+    top: 47.96%;
+    bottom: 51.48%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.083vw;
+    line-height: 3.125vw;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #EEF0F2;    
+}
+
+.section3 ol{
+    position: absolute;
+    left: 67.188vw;
+    top: 55.555555555556vh;   
+}
+
+.section3 ol li a{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    
+    color: #EEF0F2;  
+}
+
+.sectiongeografia .textbox1{
+    position: absolute;
+    left: 11.09%;
+    right: 57.34%;
+    top: 12.99%;
+    bottom: 72.39%;
+    
+    background: #1F1F1F;
+}
+
+.sectiongeografia .text1{
+    position: absolute;
+    left: 13.23%;
+    right: 59.43%;
+    top: 14.96%;
+    bottom: 73.38%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    
+    color: #EEF0F2;
+}
+
+.sectiongeografia .line1{
+    position: absolute;
+    width: 10.417vw;
+    height: 0px;
+    left: 13.229vw;
+    top: 39.444444444444vh;
+    
+    border: 3px solid #EEF0F2; 
+}
+
+.sectiongeografia .limmatimg{
+    position: absolute;
+    height: 46.2962962962963vh;
+    width: 48.958vw;
+    left: 40.365vw;
+    top: 47.5vh;
+}
+
+.sectiongeografia .line2{
+    position: absolute;
+    width: 10.417vw;
+    height: 0px;
+    left: 28.490vw;
+    top: 77.12962962962963vh;
+
+    border: 2px solid #EEF0F2;
+}
+
+.sectiongeografia .line3{
+    position: absolute;
+    width: 10.417vw;
+    height: 0px;
+    left: 76.302vw;
+    top: 94.44444444444444vh;
+
+    border: 2px solid #EEF0F2;
+}
+
+.sectiongeografia .line4{
+    position: absolute;
+    width: 10.417vw;
+    height: 0px;
+    left: 84.896vw;
+    top: 84.53703703703704vh;
+
+    border: 2px solid #EEF0F2;
+    transform: rotate(-90deg);
+}
+
+.sectiongeografia .areatext1{
+    position: absolute;
+    width: 30.104vw;
+    height: 5.555555555555555vh;
+    left: 30vw;
+    top: 113.24074074074075vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2.083vw;
+    line-height: 3.125vw;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.sectiongeografia .areatext2{
+    position: absolute;
+    width: 15.052vw;
+    height: 8.333333333333334vh;
+    left: 60.573vw;
+    top: 109.72222222222223vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.125vw;
+    line-height: 4.688vw;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.sectiongeografia .textbox2{
+    position: absolute;
+    width: 25.313vw;
+    height: 29.25925925925926vh;
+    left: 17.344vw;
+    top: 138.05555555555554vh;
+    
+    background: #1F1F1F;  
+}
+
+.sectiongeografia .text2{
+    position: absolute;
+    width: 23.281vw;
+    height: 21.11111111111111vh;
+    left: 18.385vw;
+    top: 140.27777777777777vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+
+    color: #FFFFFF;
+}
+
+.sectiongeografia .line5{
+    position: absolute;
+    width: 10.417vw;
+    height: 0px;
+    left: 11.198vw;
+    top: 147.3148148148148vh;
+
+    border: 2px solid #EEF0F2;
+    transform: rotate(90deg);
+}
+
+.sectiongeografia .textbox3{
+    position: absolute;
+    width: 25.313vw;
+    height: 23.24074074074074vh;
+    left: 45.677vw;
+    top: 158.7962962962963vh;
+
+    background: #EEF0F2;
+}
+
+.sectiongeografia .text3{
+    position: absolute;
+    width: 23.281vw;
+    height: 14.074074074074074vh;
+    left: 46.719vw;
+    top: 161.57407407407408vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+
+    color: #090B0B;
+}
+
+.sectiongeografia .line6{
+    position: absolute;
+    width: 10.417vw;
+    height: 0px;
+    left: 62.396vw;
+    top: 156.2962962962963vh;
+    
+    border: 2px solid #EEF0F2;
+}
+
+.sectiongeografia .textbox4{
+    position: absolute;
+    width: 26.667vw;
+    height: 33.611111111111114vh;
+    left: 25.313vw;
+    top: 189.07407407407408vh;
+    
+    background: #EEF0F2;
+}
+
+.sectiongeografia .text4{
+    position: absolute;
+    width: 23.281vw;
+    height: 28.14814814814815vh;
+    left: 27.031vw;
+    top: 190.92592592592592vh;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    
+    color: #090B0B; 
+}
+
+.sectiongeografia .line7{
+    position: absolute;
+    width: 16.875vw;
+    height: 0px;
+    left: 25.313vw;
+    top: 224.62962962962962vh;
+
+    border: 2px solid #EEF0F2;
+}
+
+.sectiongeografia .textbox5{
+    position: absolute;
+    width: 28.333vw;
+    height: 46.2962962962963vh;
+    left: 57.656vw;
+    top: 202.40740740740742vh;
+
+    background: #1F1F1F;
+}
+
+.sectiongeografia .text5{
+    position: absolute;
+    width: 25.104vw;
+    height: 35.18518518518518vh;
+    left: 59.271vw;
+    top: 206.11111111111111vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+
+    color: #FFFFFF;
+}
+
+.sectiongeografia .line8{
+    position: absolute;
+    width: 16.458vw;
+    height: 0px;
+    left: 78.646vw;
+    top: 213.88888888888889vh;
+
+    border: 2px solid #EEF0F2;
+    transform: rotate(90deg);
+}
+
+.section5 .separator11{
+    position: absolute;
+    left: 23.96%;
+    right: 23.96%;
+    top: 33.80%;
+    bottom: 66.20%;
+
+    border: 5px solid #EEF0F2;
+}
+
+.section5 .separator12{
+    position: absolute;
+    left: 44.79%;
+    right: 44.79%;
+    top: 34.42%;
+    bottom: 65.58%;
+
+    border: 5px solid #090B0B;
+}
+
+.sectionstoria{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    left: 0px;
+    top: 271.6666666666667vh;
+
+    background: #EEF0F2;
+}
+
+.lefttitle{
+    position: absolute;
+    width: 15.938vw;
+    right: 10.417vw;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 5.208vw;
+    line-height: 7.813vw;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #090B0B;
+
+}
+
+.sectionstoria rect{
+    position: absolute;
+    width: 42.292vw;
+    height: 37.5vh;
+    left: 28.854vw;
+    top: 31.296296296296298vh;
+
+    background: #1F1F1F;
+}
+
+.sectionstoria p{
+    position: absolute;
+    left: 31.77%;
+    right: 31.72%;
+    top: 35.93%;
+    bottom: 35.93%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    text-align: center;
+
+    color: #EEF0F2;
+
+}
+
+.section5 .separator13{
+    position: absolute;
+    left: 44.79%;
+    right: 44.79%;
+    top: 34.42%;
+    bottom: 65.58%;
+
+    border: 5px solid #090B0B;
+}
+
+.section5 .separator14{
+    position: absolute;
+    left: 23.96%;
+    right: 23.96%;
+    top: 46.48%;
+    bottom: 53.52%;
+
+    border: 5px solid #090B0B;
+}
+
+.sectionpolitica{
+    position: absolute;
+    width: 100vw;
+    height: 222.22222222222223vh;
+    left: 0px;
+    top: 371.6666666666667vh;
+
+    background: #090B0B;
+}
+
+.sectionpolitica .title2{
+    position: absolute;
+    left: 9.5%;
+    right: 44.22%;
+    top: 19.33%;
+    bottom: 78.17%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.083vw;
+    line-height: 3.125vw;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #EEF0F2;
+}
+
+.sectionpolitica .img1{
+    position: absolute;
+    width: 21.198vw;
+    height: 37.68518518518518vh;
+    left: 39.427vw;
+    top: 54.351851851851855vh;
+}
+
+.sectionpolitica .img2{
+    position: absolute;
+    width: 18.177vw;
+    height: 32.31481481481482vh;
+    left: 64.792vw;
+    top: 57.03703703703704vh;
+}
+
+.sectionpolitica .img3{
+    position: absolute;
+    width: 17.813vw;
+    height: 31.666666666666668vh;
+    left: 17.448vw;
+    top: 57.407407407407405vh;
+}
+
+.sectionpolitica .text1{
+    position: absolute;
+    left: 10.42%;
+    right: 38.72%;
+    top: 45.12%;
+    bottom: 51.71%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+
+    color: #EEF0F2;
+}
+
+.sectionpolitica .title3{
+    position: absolute;
+    left: 10.42%;
+    right: 49.22%;
+    top: 57.62%;
+    bottom: 39.88%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.083vw;
+    line-height: 3.125vw;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #EEF0F2;
+}
+
+.sectionpolitica .title4{
+    position: absolute;
+    left: 10.42%;
+    right: 83.49%;
+    top: 61.17%;
+    bottom: 36.96%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.563vw;
+    line-height: 2.344vw;
+    /* identical to box height */
+
+
+    color: #EEF0F2;
+}
+
+.sectionpolitica ol{
+    position: absolute;
+    left: 10.42%;
+    right: 17.97%;
+    top: 64.08%;
+    bottom: 16.92%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    
+    color: #EEF0F2;
+}
+
+.sectionpolitica .title5{
+    position: absolute;
+    left: 10.42%;
+    right: 83.28%;
+    top: 86.29%;
+    bottom: 11.83%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.563vw;
+    line-height: 2.344vw;
+    /* identical to box height */
+
+
+    color: #EEF0F2;
+}
+
+.sectionpolitica .text2{
+    position: absolute;
+    left: 10.42%;
+    right: 38.49%;
+    top: 89.21%;
+    bottom: 9.21%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    /* identical to box height */
+
+
+    color: #EEF0F2;
+}
+
+.section5 .separator15{
+    position: absolute;
+    left: 23.96%;
+    right: 23.96%;
+    top: 74.43%;
+    bottom: 25.57%;
+
+    border: 5px solid #EEF0F2;
+}
+
+.section5 .separator16{
+    position: absolute;
+    left: 44.79%;
+    right: 44.79%;
+    top: 74.94%;
+    bottom: 25.06%;
+
+    border: 5px solid #090B0B;
+}
+
+.sectiongastronomia{
+    position: absolute;
+    width: 100vw;
+    height: 201.2962962962963vh;
+    left: 0px;
+    top: 593.8888888888889vh;
+
+    background: #EEF0F2;
+}
+
+.sectiongastronomia .maintitle{
+    position: absolute;
+    width: 35.521vw;
+    height: 13.88888888888889vh;
+    right: 9.375vw;
+    bottom: 166.66666666666666vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 5.208vw;
+    line-height: 7.813vw;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #090B0B;
+}
+
+.sectiongastronomia .img1{
+    position: absolute;
+    width: 31.250vw;
+    height: 41.666666666666664vh;
+    left: 15.365vw;
+    top: 35.092592592592595vh; 
+}
+
+.sectiongastronomia .img2{
+    position: absolute;
+    width: 31.250vw;
+    height: 41.666666666666664vh;
+    left: 53.333vw;
+    top: 35.092592592592595vh;  
+}
+
+.sectiongastronomia .img3{
+    position: absolute;
+    width: 31.250vw;
+    height: 41.666666666666664vh;
+    left: 15.365vw;
+    top: 114.44444444444444vh;
+}
+
+.sectiongastronomia .img4{
+    position: absolute;
+    width: 31.250vw;
+    height: 41.666666666666664vh;
+    left: 53.333vw;
+    top: 114.44444444444444vh;
+}
+
+.sectiongastronomia .title1{
+    position: absolute;
+    width: 14.583vw;
+    height: 4.907407407407407vh;
+    left: 15.365vw;
+    top: 78.14814814814815vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.823vw;
+    line-height: 2.708vw;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.sectiongastronomia .title2{
+    position: absolute;
+    width: 22.188vw;
+    height: 4.907407407407407vh;
+    left: 53.333vw;
+    top: 78.14814814814815vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.823vw;
+    line-height: 2.708vw;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.sectiongastronomia .title3{
+    position: absolute;
+    width: 15.104vw;
+    height: 4.907407407407407vh;
+    left: 15.365vw;
+    top: 157.5vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.823vw;
+    line-height: 2.708vw;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.sectiongastronomia .title4{
+    position: absolute;
+    width: 8.177vw;
+    height: 4.907407407407407vh;
+    left: 53.333vw;
+    top: 157.5vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.823vw;
+    line-height: 2.708vw;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.sectiongastronomia .subtitle1{
+    position: absolute;
+    width: 7.500vw;
+    height: 3.5185185185185186vh;
+    left: 15.365vw;
+    top: 83.05555555555556vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    /* identical to box height */
+
+
+    color: #919191;
+}
+
+.sectiongastronomia .subtitle2{
+    position: absolute;
+    width: 6.458vw;
+    height: 3.5185185185185186vh;
+    left: 53.333vw;
+    top: 83.05555555555556vh;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    /* identical to box height */
+    
+    
+    color: #919191; 
+}
+
+.sectiongastronomia .subtitle3{
+    position: absolute;
+    width: 11.094vw;
+    height: 3.5185185185185186vh;
+    left: 15.365vw;
+    top: 162.40740740740742vh;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    /* identical to box height */
+    
+    
+    color: #919191; 
+}
+
+.sectiongastronomia .subtitle4{
+    position: absolute;
+    width: 10.469vw;
+    height: 3.5185185185185186vh;
+    left: 53.333vw;
+    top: 162.40740740740742vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    /* identical to box height */
+
+
+    color: #919191;
+}
+
+.sectiongastronomia .text1{
+    position: absolute;
+    width: 31.250vw;
+    height: 14.074074074074074vh;
+    left: 15.365vw;
+    top: 89.35185185185185vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+
+    color: #000000;
+}
+
+.sectiongastronomia .text2{
+    position: absolute;
+    width: 31.250vw;
+    height: 14.074074074074074vh;
+    left: 53.333vw;
+    top: 89.35185185185185vh;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+
+    color: #000000;
+}
+
+.sectiongastronomia .text3{
+    position: absolute;
+    width: 31.250vw;
+    height: 14.074074074074074vh;
+    left: 15.365vw;
+    top: 168.7037037037037vh;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    
+    color: #000000;   
+}
+
+.sectiongastronomia .text4{
+    position: absolute;
+    width: 31.250vw;
+    height: 10.555555555555555vh;
+    left: 53.333vw;
+    top: 168.7037037037037vh;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.302vw;
+    line-height: 1.927vw;
+    
+    color: #000000;  
+}
+
+.navbutton1{
+    position: fixed;
+    width: 2.604vw;
+    height: 4.62962962962963vh;
+    left: 92.344vw;
+    top: 36.111111111111114vh;
+    border-radius: 50%;
+
+    background: #919191;
+}
+
+.navbutton2{
+    position: fixed;
+    width: 2.604vw;
+    height: 4.62962962962963vh;
+    left: 92.344vw;
+    top: 44.44444444444444vh;
+    border-radius: 50%;
+
+    background: #919191;
+}
+
+.navbutton3{
+    position: fixed;
+    width: 2.604vw;
+    height: 4.62962962962963vh;
+    left: 92.344vw;
+    top: 52.77777777777778vh;
+    border-radius:50%;
+
+    background: #919191;
+}
+
+.navbutton4{
+    position: fixed;
+    width: 2.604vw;
+    height: 4.62962962962963vh;
+    left: 92.344vw;
+    top: 61.111111111111114vh;
+    border-radius: 50%;
+
+    background: #919191;
+}
+
+.navbutton5{
+    position: fixed;
+    width: 2.604vw;
+    height: 4.62962962962963vh;
+    left: 92.344vw;
+    top: 69.44444444444444vh;
+    border-radius: 50%;
+
+    background: #919191;  
+}
+
+.navbutton6{
+    position: fixed;
+    width: 2.604vw;
+    height: 4.62962962962963vh;
+    left: 92.344vw;
+    top: 27.77777777777778vh;
+    border-radius: 50%;
+
+    background: #919191;  
+}
+
+.copyright{
+    position: absolute;
+    width: 100vw;
+    height: 7.87037037037037vh;
+    left: 0px;
+    top: 1078.5185185185vh;
+
+    background: #404040;
+}
+
+.copyright p{
+    position: absolute;
+    width: 17.969vw;
+    height: 2.1296296296296298vh;
+    left: 41.042vw;
+    top: 1.3vh;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.042vw;
+    line-height: 1.198vw;
+    
+    color: #FFFFFF;
+}
+
+.navbutton1:hover{
+    background: #6A6266;
+}
+
+.navbutton2:hover{
+    background: #6A6266;
+}
+
+.navbutton3:hover{
+    background: #6A6266;
+}
+
+.navbutton4:hover{
+    background: #6A6266;
+}
+
+.navbutton5:hover{
+    background: #6A6266;
+}
+
+.navbutton6:hover{
+    background: #6A6266;
+}
+
+@keyframes cloud-anim {
+    from{
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-6.250vw);
+    }
+}

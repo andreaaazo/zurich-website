@@ -1,0 +1,59 @@
+section{
+        position: absolute;
+        width: 100vw;
+        height: 100vh;
+        left: 0px;
+        top: 0px;
+        background: #090B0B;
+}
+
+h1{
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 7.813vw;
+        line-height: 7.813vw;
+        text-align: center;
+    
+        color: #EEF0F2;
+    
+}
+
+img{
+        position: absolute;
+        width: 50vw;
+        height: 50vh;
+        margin-left: 5vw;
+}
+
+table{  
+        position: absolute;
+        top: 50vh;
+        margin-left: 60vw;
+
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.302vw;
+        text-align: left;
+    
+        color: #EEF0F2;
+
+}
+
+table .column1{
+        width: 14vw;
+}
+
+p a{
+        position: absolute;
+        margin-top: 3vh;
+        margin-left: 2vw;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.302vw;
+        text-align: left;
+    
+        color: #6A6266;   
+}
